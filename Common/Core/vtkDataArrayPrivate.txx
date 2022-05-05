@@ -25,6 +25,7 @@
 #include <array>
 #include <cassert> // for assert()
 #include <vector>
+#include <limits>
 
 namespace vtkDataArrayPrivate
 {
